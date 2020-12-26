@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SectionII" Database="" Version="10000">
+  <Project Name="strDemo" Path="strDemo/strDemo.project" Active="Yes"/>
+  <Project Name="functionDemo" Path="functionDemo/functionDemo.project" Active="No"/>
+  <Project Name="challenge11" Path="challenge11/challenge11.project" Active="No"/>
+  <Project Name="pointerDemo" Path="pointerDemo/pointerDemo.project" Active="No"/>
+  <Project Name="returnPtr" Path="returnPtr/returnPtr.project" Active="No"/>
+  <Project Name="debugger" Path="debugger/debugger.project" Active="No"/>
+  <Project Name="challenge12" Path="chanllenge12/chanllenge12.project" Active="No"/>
+  <Project Name="classDemo" Path="classDemo/classDemo.project" Active="No"/>
+  <Project Name="classDemo2" Path="classDemo2/classDemo2.project" Active="No"/>
+  <Project Name="classDemo3" Path="classDemo3/classDemo3.project" Active="No"/>
+  <Project Name="constructorDemo" Path="constructorDemo/constructorDemo.project" Active="No"/>
+  <Project Name="classDelegation" Path="classDelegation/classDelegation.project" Active="No"/>
+  <Project Name="classCopyConstructor" Path="classCopyConstructor/classCopyConstructor.project" Active="No"/>
+  <Project Name="copyConstructorDemo" Path="copyConstructorDemo/copyConstructorDemo.project" Active="No"/>
+  <Project Name="shallowCopyDemo" Path="shallowCopyDemo/shallowCopyDemo.project" Active="No"/>
+  <Project Name="moveConstructor" Path="lrValue/lrValue.project" Active="No"/>
+  <Project Name="staticClassDemo" Path="staticClassDemo/staticClassDemo.project" Active="No"/>
+  <Project Name="challenge13" Path="challenge13/challenge13.project" Active="No"/>
+  <Project Name="myStringDeepCopy" Path="myStringDeepCopy/myStringDeepCopy.project" Active="No"/>
+  <Project Name="operatorOverloading" Path="operatorOverloading/operatorOverloading.project" Active="No"/>
+  <Project Name="operatorInsertion" Path="operatorInsertion/operatorInsertion.project" Active="No"/>
+  <Project Name="challenge14" Path="challenge14/challenge14.project" Active="No"/>
+  <Project Name="challenge14NM" Path="challenge14NM/challenge14NM.project" Active="No"/>
+  <Project Name="inheritanceDemo" Path="inheritanceDemo/inheritanceDemo.project" Active="No"/>
+  <Project Name="protectedDemo" Path="protectedDemo/protectedDemo.project" Active="No"/>
+  <Project Name="challenge15" Path="challenge15/challenge15.project" Active="No"/>
+  <Project Name="polymorphism" Path="polymorphism/polymorphism.project" Active="No"/>
+  <Project Name="purevirtualDemo" Path="purevirtualDemo/purevirtualDemo.project" Active="No"/>
+  <Project Name="interfaceComplete" Path="interfaceComplete/interfaceComplete.project" Active="No"/>
+  <Project Name="challenge16" Path="challenge16/challenge16.project" Active="No"/>
+  <Project Name="uniquePointer" Path="uniquePointer/uniquePointer.project" Active="No"/>
+  <Project Name="challenge17" Path="challenge17/challenge17.project" Active="No"/>
+  <Project Name="section18MPG" Path="section18MPG/section18MPG.project" Active="No"/>
+  <Project Name="stackUnwinding" Path="stackUnwinding/stackUnwinding.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="strDemo" ConfigName="Debug"/>
+      <Project Name="functionDemo" ConfigName="Debug"/>
+      <Project Name="challenge11" ConfigName="Debug"/>
+      <Project Name="pointerDemo" ConfigName="Debug"/>
+      <Project Name="returnPtr" ConfigName="Debug"/>
+      <Project Name="debugger" ConfigName="Debug"/>
+      <Project Name="challenge12" ConfigName="Debug"/>
+      <Project Name="classDemo" ConfigName="Debug"/>
+      <Project Name="classDemo2" ConfigName="Debug"/>
+      <Project Name="classDemo3" ConfigName="Debug"/>
+      <Project Name="constructorDemo" ConfigName="Debug"/>
+      <Project Name="classDelegation" ConfigName="Debug"/>
+      <Project Name="classCopyConstructor" ConfigName="Debug"/>
+      <Project Name="copyConstructorDemo" ConfigName="Debug"/>
+      <Project Name="shallowCopyDemo" ConfigName="Debug"/>
+      <Project Name="moveConstructor" ConfigName="Debug"/>
+      <Project Name="staticClassDemo" ConfigName="Debug"/>
+      <Project Name="challenge13" ConfigName="Debug"/>
+      <Project Name="myStringDeepCopy" ConfigName="Debug"/>
+      <Project Name="operatorOverloading" ConfigName="Debug"/>
+      <Project Name="operatorInsertion" ConfigName="Debug"/>
+      <Project Name="challenge14" ConfigName="Debug"/>
+      <Project Name="challenge14NM" ConfigName="Debug"/>
+      <Project Name="inheritanceDemo" ConfigName="Debug"/>
+      <Project Name="protectedDemo" ConfigName="Debug"/>
+      <Project Name="challenge15" ConfigName="Debug"/>
+      <Project Name="polymorphism" ConfigName="Debug"/>
+      <Project Name="purevirtualDemo" ConfigName="Debug"/>
+      <Project Name="interfaceComplete" ConfigName="Debug"/>
+      <Project Name="challenge16" ConfigName="Debug"/>
+      <Project Name="uniquePointer" ConfigName="Debug"/>
+      <Project Name="challenge17" ConfigName="Debug"/>
+      <Project Name="section18MPG" ConfigName="Debug"/>
+      <Project Name="stackUnwinding" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="strDemo" ConfigName="Release"/>
+      <Project Name="functionDemo" ConfigName="Release"/>
+      <Project Name="challenge11" ConfigName="Release"/>
+      <Project Name="pointerDemo" ConfigName="Release"/>
+      <Project Name="returnPtr" ConfigName="Release"/>
+      <Project Name="debugger" ConfigName="Release"/>
+      <Project Name="challenge12" ConfigName="Release"/>
+      <Project Name="classDemo" ConfigName="Release"/>
+      <Project Name="classDemo2" ConfigName="Release"/>
+      <Project Name="classDemo3" ConfigName="Release"/>
+      <Project Name="constructorDemo" ConfigName="Release"/>
+      <Project Name="classDelegation" ConfigName="Release"/>
+      <Project Name="classCopyConstructor" ConfigName="Release"/>
+      <Project Name="copyConstructorDemo" ConfigName="Release"/>
+      <Project Name="shallowCopyDemo" ConfigName="Release"/>
+      <Project Name="moveConstructor" ConfigName="Release"/>
+      <Project Name="staticClassDemo" ConfigName="Release"/>
+      <Project Name="challenge13" ConfigName="Release"/>
+      <Project Name="myStringDeepCopy" ConfigName="Release"/>
+      <Project Name="operatorOverloading" ConfigName="Release"/>
+      <Project Name="operatorInsertion" ConfigName="Release"/>
+      <Project Name="challenge14" ConfigName="Release"/>
+      <Project Name="challenge14NM" ConfigName="Release"/>
+      <Project Name="inheritanceDemo" ConfigName="Release"/>
+      <Project Name="protectedDemo" ConfigName="Release"/>
+      <Project Name="challenge15" ConfigName="Release"/>
+      <Project Name="polymorphism" ConfigName="Release"/>
+      <Project Name="purevirtualDemo" ConfigName="Release"/>
+      <Project Name="interfaceComplete" ConfigName="Release"/>
+      <Project Name="challenge16" ConfigName="Release"/>
+      <Project Name="uniquePointer" ConfigName="Release"/>
+      <Project Name="challenge17" ConfigName="Release"/>
+      <Project Name="section18MPG" ConfigName="Release"/>
+      <Project Name="stackUnwinding" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

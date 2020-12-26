@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="STLdemo" Database="" Version="10000">
+  <Project Name="introduction" Path="introduction/introduction.project" Active="No"/>
+  <Project Name="GenericMacros" Path="GenericMacros/GenericMacros.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="introduction" ConfigName="Debug"/>
+      <Project Name="GenericMacros" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="introduction" ConfigName="Release"/>
+      <Project Name="GenericMacros" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
