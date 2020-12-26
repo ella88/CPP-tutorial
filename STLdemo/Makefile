@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ GenericMacros - Debug ]----------"
-	@cd "GenericMacros" && "$(MAKE)" -f  "GenericMacros.mk"
+	@echo "----------Building project:[ Iterator - Debug ]----------"
+	@cd "Iterator" && "$(MAKE)" -f  "Iterator.mk"
 clean:
-	@echo "----------Cleaning project:[ GenericMacros - Debug ]----------"
-	@cd "GenericMacros" && "$(MAKE)" -f  "GenericMacros.mk" clean
+	@echo "----------Cleaning project:[ Iterator - Debug ]----------"
+	@cd "Iterator" && "$(MAKE)" -f  "Iterator.mk" clean

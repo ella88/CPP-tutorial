@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="STLdemo" Database="" Version="10000">
   <Project Name="introduction" Path="introduction/introduction.project" Active="No"/>
-  <Project Name="GenericMacros" Path="GenericMacros/GenericMacros.project" Active="Yes"/>
+  <Project Name="GenericMacros" Path="GenericMacros/GenericMacros.project" Active="No"/>
+  <Project Name="GenericTemplate" Path="GenericTemplate/GenericTemplate.project" Active="No"/>
+  <Project Name="ClassTemplateArray" Path="ClassTemplateArray/ClassTemplateArray.project" Active="No"/>
+  <Project Name="Iterator" Path="Iterator/Iterator.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="introduction" ConfigName="Debug"/>
       <Project Name="GenericMacros" ConfigName="Debug"/>
+      <Project Name="GenericTemplate" ConfigName="Debug"/>
+      <Project Name="ClassTemplateArray" ConfigName="Debug"/>
+      <Project Name="Iterator" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="introduction" ConfigName="Release"/>
       <Project Name="GenericMacros" ConfigName="Release"/>
+      <Project Name="GenericTemplate" ConfigName="Release"/>
+      <Project Name="ClassTemplateArray" ConfigName="Release"/>
+      <Project Name="Iterator" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
