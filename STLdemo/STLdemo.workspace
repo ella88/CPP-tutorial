@@ -4,7 +4,14 @@
   <Project Name="GenericMacros" Path="GenericMacros/GenericMacros.project" Active="No"/>
   <Project Name="GenericTemplate" Path="GenericTemplate/GenericTemplate.project" Active="No"/>
   <Project Name="ClassTemplateArray" Path="ClassTemplateArray/ClassTemplateArray.project" Active="No"/>
-  <Project Name="Iterator" Path="Iterator/Iterator.project" Active="Yes"/>
+  <Project Name="Iterator" Path="Iterator/Iterator.project" Active="No"/>
+  <Project Name="AlgorithmSTL" Path="AlgorithmSTL/AlgorithmSTL.project" Active="No"/>
+  <Project Name="containerArray" Path="containerArray/containerArray.project" Active="No"/>
+  <Project Name="containerVector" Path="conatainerVector/conatainerVector.project" Active="No"/>
+  <Project Name="containerDeque" Path="containerDeque/containerDeque.project" Active="No"/>
+  <Project Name="challenge1" Path="challenge1/challenge1.project" Active="No"/>
+  <Project Name="containerList" Path="containerList/containerList.project" Active="No"/>
+  <Project Name="challenge2" Path="challenge2/challenge2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -13,6 +20,13 @@
       <Project Name="GenericTemplate" ConfigName="Debug"/>
       <Project Name="ClassTemplateArray" ConfigName="Debug"/>
       <Project Name="Iterator" ConfigName="Debug"/>
+      <Project Name="AlgorithmSTL" ConfigName="Debug"/>
+      <Project Name="containerArray" ConfigName="Debug"/>
+      <Project Name="containerVector" ConfigName="Debug"/>
+      <Project Name="containerDeque" ConfigName="Debug"/>
+      <Project Name="challenge1" ConfigName="Debug"/>
+      <Project Name="containerList" ConfigName="Debug"/>
+      <Project Name="challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -21,6 +35,13 @@
       <Project Name="GenericTemplate" ConfigName="Release"/>
       <Project Name="ClassTemplateArray" ConfigName="Release"/>
       <Project Name="Iterator" ConfigName="Release"/>
+      <Project Name="AlgorithmSTL" ConfigName="Release"/>
+      <Project Name="containerArray" ConfigName="Release"/>
+      <Project Name="containerVector" ConfigName="Release"/>
+      <Project Name="containerDeque" ConfigName="Release"/>
+      <Project Name="challenge1" ConfigName="Release"/>
+      <Project Name="containerList" ConfigName="Release"/>
+      <Project Name="challenge2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

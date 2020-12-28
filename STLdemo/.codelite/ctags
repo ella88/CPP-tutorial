@@ -1,3 +1,32 @@
+std	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	/Users/riella/Library/Application Support/CodeLite/tmp/codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+
+
+
+
+Song	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^class Song{$/;"	class	line:6
+operator <<	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    friend std::ostream &operator<<(std::ostream &os, const Song &song);$/;"	prototype	line:7	class:Song	access:friend	signature:(std::ostream &os, const Song &song)	returns:friend std :: ostream 
+title	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    std::string title;$/;"	member	line:8	class:Song	access:private
+duration	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    int duration;$/;"	member	line:9	class:Song	access:private
+def_name	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    static constexpr const char *def_name="Unnamed Account";$/;"	member	line:11	class:Song	access:private
+def_duration	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    static constexpr int def_duration=0;$/;"	member	line:12	class:Song	access:private
+Song	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    Song(std::string title = def_name, int duration=def_duration){};$/;"	function	line:14	class:Song	access:public	signature:(std::string title = def_name, int duration=def_duration)
+operator <<	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^std::ostream &operator<<(std::ostream &os, const Song &song){$/;"	function	line:17	signature:(std::ostream &os, const Song &song)	returns:std :: ostream 
+Playlist	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^class Playlist{$/;"	class	line:22
+operator <<	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    friend std::ostream &operator<<(std::ostream &os, const Playlist &plst);$/;"	prototype	line:23	class:Playlist	access:friend	signature:(std::ostream &os, const Playlist &plst)	returns:friend std :: ostream 
+name	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    std::string name;$/;"	member	line:24	class:Playlist	access:private
+songs	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    std::list<Song> songs;$/;"	member	line:25	class:Playlist	access:private
+Playlist	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    Playlist()=default;$/;"	prototype	line:27	class:Playlist	access:public	signature:()
+Playlist	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    Playlist(list<Song> _songs)$/;"	function	line:28	class:Playlist	access:public	signature:(list<Song> _songs)
+play_first	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^    void play_first(){$/;"	function	line:30	class:Playlist	access:public	signature:()	returns:void 
+operator <<	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^std::ostream &operator<<(std::ostream &os, const Playlist &plst){$/;"	function	line:34	signature:(std::ostream &os, const Playlist &plst)	returns:std :: ostream 
+main	/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/challenge2/main.cpp	/^int main(){$/;"	function	line:41	signature:()	returns:int 
+
 
 
 

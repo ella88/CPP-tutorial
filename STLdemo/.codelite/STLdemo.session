@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/STLdemo.workspace">
+  <int Value="3" Name="m_selectedTab"/>
+  <wxString Value="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/STLdemo.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/Iterator/main.cpp" Name="FileName"/>
+      <int Value="98" Name="FirstVisibleLine"/>
+      <int Value="100" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/AlgorithmSTL/main.cpp" Name="FileName"/>
+      <int Value="99" Name="FirstVisibleLine"/>
+      <int Value="101" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/containerArray/main.cpp" Name="FileName"/>
+      <int Value="62" Name="FirstVisibleLine"/>
+      <int Value="70" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/riella/Documents/OnlineCourses/UdemyCPP/STLdemo/conatainerVector/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="4" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Library/Developer/CommandLineTools/usr/include/c++/v1/memory" Name="FileName"/>
+      <int Value="1813" Name="FirstVisibleLine"/>
+      <int Value="1824" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

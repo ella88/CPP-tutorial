@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Iterator - Debug ]----------"
-	@cd "Iterator" && "$(MAKE)" -f  "Iterator.mk"
+	@echo "----------Building project:[ challenge2 - Debug ]----------"
+	@cd "challenge2" && "$(MAKE)" -f  "challenge2.mk"
 clean:
-	@echo "----------Cleaning project:[ Iterator - Debug ]----------"
-	@cd "Iterator" && "$(MAKE)" -f  "Iterator.mk" clean
+	@echo "----------Cleaning project:[ challenge2 - Debug ]----------"
+	@cd "challenge2" && "$(MAKE)" -f  "challenge2.mk" clean
